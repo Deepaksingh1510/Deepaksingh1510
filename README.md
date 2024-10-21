@@ -13,8 +13,8 @@ During my studies, I developed a strong foundation in algorithms, computing math
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-singh-06222b214/) 
-- **Portfolio:** [deepak-singh-portfolio.vercel.app](https://deepak-singh-portfolio.vercel.app/)
-- **Email:** [Deepaksingh2015.ds@gmail.com](mailto:Deepaksingh2015.ds@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://deepak-singh-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Deepaksingh2015.ds@gmail.com)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
