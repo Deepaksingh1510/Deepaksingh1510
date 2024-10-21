@@ -12,7 +12,7 @@
 During my studies, I developed a strong foundation in algorithms, computing mathematics, and programming languages like **Java** and **C++**. I worked on various projects, including a **cross-platform app** using **React Native** and an **AI model** using **Python**, gaining hands-on experience in creating impactful digital solutions.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-singh-06222b214/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-singh-06222b214/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://deepak-singh-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Deepaksingh2015.ds@gmail.com)
 
